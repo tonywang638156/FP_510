@@ -20,7 +20,7 @@ def collect_stock_data():
 
 # Function to fetch news articles
 def fetch_news():
-    news_api_key = "56a09efdc146428fbf0385e61c134591"
+    news_api_key = ""
     news_base_url = "https://newsapi.org/v2/everything"
 
     end_date = datetime.now()
